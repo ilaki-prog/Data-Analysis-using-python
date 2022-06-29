@@ -10,7 +10,9 @@ Using python libraries (Numpy, Pandas, Matplotlib, Seaborn) we will analyze and 
 
 # 1) TOP 5 BOWLERS
 
-![Screenshot (156)](https://user-images.githubusercontent.com/100082194/176373573-9f9f2d33-5ca4-4db4-9cf3-0a359259c75e.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/100082194/176381416-33860910-2029-423d-9323-508d9ba0981e.png)
+
+
 
    # 1. Deepak Chahar - Chennai Super kings - 14 CRORES
  
@@ -50,7 +52,8 @@ Prasidh Krishna was born on February 19, 1996. He is an Indian cricketer who pla
 
 Avesh Khan was born on 13th December 1996. He is an Indian cricketer and joined India’s squad for the 2016 Under-19 Cricket World Cup. Finally, Khan began his international career for the Indian cricket team in 2022. He joined the India C’s squad for the 2019–20 Deodhar Trophy. Further, In 2021, he was selected as one of five net bowlers in India’s Test squad against England. Again, Khan was also selected as one of four standby players in India’s Test squad for the final of the 2019–2021 ICC World Test Championship against England. In January 2022, he was nominated for India’s ODI and T20I squads against the West Indies.
 
+# TOP 5 BATSMAN 
 
-
+![Screenshot (1641)](https://user-images.githubusercontent.com/100082194/176381621-8986996c-7538-4af4-b9e1-6c67d02a63d8.png)
 
 
