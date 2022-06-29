@@ -56,4 +56,19 @@ Avesh Khan was born on 13th December 1996. He is an Indian cricketer and joined 
 
 ![Screenshot (1641)](https://user-images.githubusercontent.com/100082194/176381621-8986996c-7538-4af4-b9e1-6c67d02a63d8.png)
 
+# 1) Shreyas Iyer - Kolkata Knight Riders - 12.25 CRORES
+
+![Screenshot (165)](https://user-images.githubusercontent.com/100082194/176391637-41b99114-1b73-4bc6-b204-14e9dd90ecdb.png)
+
+In February 2015, Iyer was signed in the 2015 IPL players auction by the Delhi Daredevils for 2.6 crores (approximately $430,000). Thus Iyer became the highest-earning uncapped player in the tournament.
+
+He scored 439 runs in 14 matches, with a 33.76 average and a strike rate of 128.36, making Iyer the 9th most consistent player and Emerging Player of 2015 IPL.Iyer was retained by Delhi Daredevils in the 2018 IPL Auction. On 25 April 2018, he was announced as the new captain of Delhi Daredevils replacing Gautam Gambhir.
+On 27 April 2018, he became the youngest captain to lead the Delhi Daredevils team in the IPL history at the age of 23 years and 142 days during the match against Kolkata Knight Riders and was also the fourth overall youngest to captain any IPL side.
+On his IPL captaincy debut, Shreyas Iyer smashed an unbeaten match-winning knock of 93 off 40 deliveries with 10 sixes, which was his third successive IPL fifty of the season to power DD to a heavy total of 219/5 in the first innings of the match before earning him the man of the match award.
+Under his captaincy, Delhi Daredevils managed to defeat KKR by 55 runs to secure only their second win of the tournament. Iyer was retained by the Delhi Capitals in the IPL 2019 season which he led the team into the playoffs for the first time after seven years.
+In the 2020 season, he continued as the captain for Delhi Capitals and he also led them to their maiden IPL final against the Mumbai Indians. Iyer scored an unbeaten 65 off 50 balls in a losing effort as Mumbai Indians won the final.
+He missed the half-season of IPL 2021 due to an injury in his Left Shoulder while playing for India in the first match of an ODI series against England in the same year. He made his comeback after a span of 6 months for Delhi Capitals.
+Iyer in his so far IPL career scored 2375 runs with the highest score of 96 runs at an average of 31.66. 
+
+# 2) 
 
